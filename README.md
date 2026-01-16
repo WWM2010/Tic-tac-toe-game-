@@ -2,7 +2,7 @@
 
 A C++ implementation of the classic **Tic-Tac-Toe** game, featuring an AI opponent powered by the **Minimax algorithm** with **Alpha-Beta pruning** for efficiency.  
 This project supports multiple game modes, making it fun for casual play and a great study resource for AI/game theory enthusiasts.
-
+°°° First, I wrote some comments in the code to explain it , so u can read the code directly because it more organized.
 ---
 
 ## ✨ Features
@@ -40,8 +40,7 @@ Clone the repository:
 ```bash
 git clone https://github.com/your-username/tic-tac-toe-ai-cpp.git
 cd tic-tac-toe-ai-cpp
-
-https://github.com/user-attachments/assets/edeef17c-12c8-41bf-8ff5-db083a239d55
+IDK how to import a gif they need 10MB vid hhh
 
 🤝 Contributing
 Contributions are welcome!
