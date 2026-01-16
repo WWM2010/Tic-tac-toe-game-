@@ -40,3 +40,9 @@ Clone the repository:
 ```bash
 git clone https://github.com/your-username/tic-tac-toe-ai-cpp.git
 cd tic-tac-toe-ai-cpp
+
+
+
+🤝 Contributing
+Contributions are welcome!
+Feel free to fork this repo, open issues, or submit pull requests to improve features, UI, or performance.
