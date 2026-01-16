@@ -40,8 +40,5 @@ Clone the repository:
 ```bash
 git clone https://github.com/your-username/tic-tac-toe-ai-cpp.git
 cd tic-tac-toe-ai-cpp
-IDK how to import a gif they need 10MB vid hhh
-
-🤝 Contributing
-Contributions are welcome!
-Feel free to fork this repo, open issues, or submit pull requests to improve features, UI, or performance.
+```
+IDK how to import a GIF,It give me  an ERROR. i think the code is easy to use just clone it easly .
